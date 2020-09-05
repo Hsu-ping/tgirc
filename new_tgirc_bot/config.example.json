@@ -1,0 +1,25 @@
+{
+    "botid": 123456789, 
+    "botname": "FooRelayBot",
+    "groupid": 12345678,
+    "groupname": "Foo Group",
+    "i2t": true,
+    "ircignore": "SomeBot.*",
+    "ircbotid": 123456789,
+    "ircbotname": "FooRelayBot",
+    "ircchannel": "##Foo",
+    "ircnick": "FooRelayBot",
+    "ircpass": "",
+    "ircport": 6697,
+    "ircserver": "irc.freenode.net",
+    "ircssl": true,
+    "offset": 0,
+    "t2i": true,
+    "token": "123456789:AABBCCDDEEFFGGHHIIJJKKLL_mmnnooppqq"
+}
+
+
+
+
+
+

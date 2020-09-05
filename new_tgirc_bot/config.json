@@ -1,0 +1,20 @@
+{
+    "botid": 1350506791,
+    "botname": "HITCON_bot",
+    "groupid": 1001215663328,
+    "groupname": "botgroup",
+    "i2t": true,
+    "ircbotid": 1350506791,
+    "ircbotname": "HITCON_bot",
+    "ircchannel": "#hitcon",
+    "ircignore": "SomeBot.*",
+    "ircnick": "HITCON_bot",
+    "ircpass": "",
+    "ircport": 6697,
+    "ircserver": "irc.freenode.net",
+    "ircssl": true,
+    "offset": 262624662,
+    "shownick": true,
+    "t2i": true,
+    "token": "1350506791:AAF9Gk7HBmMR0iOTEjNusF3VnGjPygNCkoQ"
+}
